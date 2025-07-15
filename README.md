@@ -1,6 +1,6 @@
-# GIEC ApplyPro
+# GIEC 
 
-**GIEC ApplyPro** is a scalable MERN stack web platform built to streamline the operations of overseas education consultancies. It automates student onboarding, document collection, and visa tracking—reducing errors by 70% and cutting application processing time by 50%.
+**GIEC** is a scalable MERN stack web platform built to streamline the operations of overseas education consultancies. It automates student onboarding, document collection, and visa tracking—reducing errors by 70% and cutting application processing time by 50%.
 
 Designed for internal office use, the platform supports multi-branch access, role-based permissions, and centralized management, handling over 2,000+ student applications annually.
 
